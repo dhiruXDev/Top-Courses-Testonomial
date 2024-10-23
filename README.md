@@ -20,6 +20,6 @@ This project is a React-based web application that displays a list of top course
 
 ## 🚀 Live Demo
 
-Check out the live version of the app: [DevDetective](https://dev-detective-snowy.vercel.app/)
+Check out the live version of the app: [DevDetective](https://top-courses-testonomial.vercel.app/)
 
 
