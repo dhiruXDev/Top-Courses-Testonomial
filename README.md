@@ -17,5 +17,9 @@ This project is a React-based web application that displays a list of top course
 - **Fetch API**: To retrieve course data.
 - **React Hooks**: For managing state and side effects.
 
-## Installation
+
+## 🚀 Live Demo
+
+Check out the live version of the app: [DevDetective](https://dev-detective-snowy.vercel.app/)
+
 
